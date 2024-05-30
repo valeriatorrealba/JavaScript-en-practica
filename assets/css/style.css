@@ -34,6 +34,7 @@ body{
 .tamaño{
     width:100px;
     height: 100px;
+    text-align: center;
 }
 
 .color1{
