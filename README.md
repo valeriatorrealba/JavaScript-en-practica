@@ -18,9 +18,9 @@ Desarrolla un código para validar un formulario de contacto utilizando el event
 
 - **Captura de Pantalla**:
 
-  - ![ejercicio1](assets/screenshot/ejercicio1.png)
-  - ![ejercicio1](assets/screenshot/ejercicio1.1.png)
-  - ![ejercicio1](assets/screenshot/ejercicio1.2.png)
+    ![ejercicio1](assets/screenshot/ejercicio1.png)
+    ![ejercicio1](assets/screenshot/ejercicio1.1.png)
+    ![ejercicio1](assets/screenshot/ejercicio1.2.png)
 
 ### Ejercicio 2: Selector de Colores
 
@@ -28,7 +28,7 @@ Implementa un selector de colores que permita cambiar el color de un cuadro prin
 
 - **Captura de Pantalla**:
 
-  - ![ejercicio2](assets/screenshot/ejercicio2.png)
+    ![ejercicio2](assets/screenshot/ejercicio2.png)
 
 ### Ejercicio 3: Calculadora Básica
 
@@ -36,7 +36,7 @@ Desarrolla una calculadora con funcionalidad para sumar y restar. El resultado d
 
 - **Captura de Pantalla**:
 
-  - ![ejercicio3](assets/screenshot/ejercicio3.png)
+    ![ejercicio3](assets/screenshot/ejercicio3.png)
 
 ## Autor
 
