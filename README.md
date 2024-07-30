@@ -19,7 +19,9 @@ Desarrolla un código para validar un formulario de contacto utilizando el event
 - **Captura de Pantalla**:
 
     ![ejercicio1](assets/screenshot/ejercicio1.png)
+  
     ![ejercicio1](assets/screenshot/ejercicio1.1.png)
+  
     ![ejercicio1](assets/screenshot/ejercicio1.2.png)
 
 ### Ejercicio 2: Selector de Colores
